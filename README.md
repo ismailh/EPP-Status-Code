@@ -1,6 +1,6 @@
 # Domain EPP Status Code & Reference Guide
 
-This is a complete list of all EPP status codes and messages supported by DK Hostmaster EPP service.
+This is a complete list of all EPP status codes and messages supported EPP service.
 
 
 ## General status messages
